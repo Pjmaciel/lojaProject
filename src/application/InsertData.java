@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 
 import db.DB;
 
-public class Program {
+public class InsertData {
     public static void main(String[] args) {
 
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
